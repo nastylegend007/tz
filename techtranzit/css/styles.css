@@ -1,0 +1,136 @@
+#title {
+    background-color: #000000eb;
+    color: #fff;
+}
+#myVideo {
+    position:absolute;
+    
+    width: 155%;
+    height: 100%;
+  }
+  
+body {
+    color: Montserrat;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h2 {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+h3 {
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.p2 {
+    color: #8f8f8f;
+}
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.navbar {
+    padding: 0 0 4.5rem;
+}
+.nav-item {
+    padding: 0 18px;
+}
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Raleway', sans-serif;
+}
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+.title-image {
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+}
+#features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+}
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+.circles {
+    color: #313131;
+    margin-bottom: 1rem;
+}
+.circles:hover {
+    color: #100d0d;
+}
+#testimonials {
+    text-align: center;
+    background-color: #313131;
+    color: #fff;
+}
+.testimonial-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+.carousel-item {
+    padding: 7% 15%;
+}
+#press {
+    background-color: #313131;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.price-h2 {
+    color: black;
+}
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+.pricing-tag {
+    padding: 3% 2%;
+}
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+    .title-image {
+        transform: rotate(0);
+        position: static;
+    }
+}
+#cta {
+    background-color: #1e1e1e;
+    text-align: center;
+    padding: 7% 20%;
+}
+#footer {
+    text-align: center;
+    color: #fff;
+    padding: 6% 20%;
+}
+.copy {
+    color: #8f8f8f; 
+}
+.ft-icons {
+    color: black;
+    margin: 5% 2%;
+}
+.db2 {
+    margin: 5% 2%;
+}
